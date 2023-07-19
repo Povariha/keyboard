@@ -1,0 +1,22 @@
+@import './reset.css';
+
+body {
+  background-color: #FFB99D;
+}
+.input-area {
+  width: 100vw;
+  height: 49.6vh;
+  resize: none;
+  outline: none;  
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 40px;
+  margin: 0;
+  font-size: 32px;
+  border-top: 2px solid black
+}
+
+.wrapper {
+  height: 50vh;
+}
+
