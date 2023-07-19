@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/keyboard/static/css/main.8b213092.css",
+    "main.js": "/keyboard/static/js/main.b3000010.js",
+    "static/js/872.277e7af4.chunk.js": "/keyboard/static/js/872.277e7af4.chunk.js",
+    "static/js/227.23600860.chunk.js": "/keyboard/static/js/227.23600860.chunk.js",
+    "static/js/526.fdf471b7.chunk.js": "/keyboard/static/js/526.fdf471b7.chunk.js",
+    "static/js/232.ebc63069.chunk.js": "/keyboard/static/js/232.ebc63069.chunk.js",
+    "static/js/237.cff872fa.chunk.js": "/keyboard/static/js/237.cff872fa.chunk.js",
+    "index.html": "/keyboard/index.html",
+    "main.8b213092.css.map": "/keyboard/static/css/main.8b213092.css.map",
+    "main.b3000010.js.map": "/keyboard/static/js/main.b3000010.js.map",
+    "872.277e7af4.chunk.js.map": "/keyboard/static/js/872.277e7af4.chunk.js.map",
+    "227.23600860.chunk.js.map": "/keyboard/static/js/227.23600860.chunk.js.map",
+    "526.fdf471b7.chunk.js.map": "/keyboard/static/js/526.fdf471b7.chunk.js.map",
+    "232.ebc63069.chunk.js.map": "/keyboard/static/js/232.ebc63069.chunk.js.map",
+    "237.cff872fa.chunk.js.map": "/keyboard/static/js/237.cff872fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b213092.css",
+    "static/js/main.b3000010.js"
+  ]
+}
